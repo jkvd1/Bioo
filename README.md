@@ -8,7 +8,7 @@
 
 <p align="center">
 
- <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkvd&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight&hide=" "https://github-profile-trophy.vercel.app/?username=ryo-ma&column=2">
+ <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkvd&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight&hide=">
 </p>
 
 </div>
@@ -125,6 +125,6 @@
 
 <div align="center">
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkvd1&show_icons=true&theme=tokyonight" alt="jkvd1" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=2"><img src="https://github-profile-trophy.vercel.app/?username=jkvd1&show_icons=true&theme=tokyonight" alt="jkvd1" /></a> </p>
 
 -------------------------------------------------------------------------------------------------------------------------
