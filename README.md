@@ -1,13 +1,13 @@
 --------------------------------------------------------------------------------------------------------------------------
 
-<h2 align="center">Hellooo Guys!</h1>
+<h2 align="center">Hellooo SyntaxianZ!</h1>
 
 <h1 align="center">Welcome to My Github Profile 👋</h1>
 
 <div align="center"
 
 <p align="center">
- <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkvd1&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight&hide=">
+ <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibeux&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight&hide=">
 </p>
 
 </div>
@@ -18,21 +18,18 @@
 
 💬 Interested in **Design Graphic, Web Programming**
 
-📫 How to reach me **joshua.ken1204@gmail.com**
+📫 How to reach me **wahabinasrul@gmail.com**
 
 </div>
 
  <h3 align="center">🗡️Connect with me:</h3>
 
  <p align="center">
-<a href="https://www.linkedin.com/in/jkvd/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joshua Kenneth Van Dyon" height="30" width="40" /></a>
-
-<a href="https://instagram.com/jokenntt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jokenntt" height="30" width="40" /></a>
-
-<a href="https://www.youtube.com/c/KennethVD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="KennethVD" height="30" width="40" /></a>
-
-<a href="https://www.hackerrank.com/rendankjengkol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rendankjengkol" height="30" width="40" /></a>
-
+<a href="https://www.linkedin.com/in/m-nasrul-wahabi-a35a97181/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasrul wahabi" height="30" width="40" /></a>
+<a href="https://fb.com/m.n.wahabi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.n.wahabi" height="30" width="40" /></a>
+<a href="https://instagram.com/nasrulwahabi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasrulwahabi" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/habiqi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="habiqi" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/wahabinasrul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wahabinasrul" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">☕Languages and Tools:</h3>
@@ -45,7 +42,7 @@
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
- <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/jkvd1/Ngoding_Asix_SyntaxianZ/blob/MyProgram/Doc/Windows/AE.jpg" alt="premiere" width="40" height="40"/> </a>
+ <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sibeux/Ngoding_Asix_SyntaxianZ/blob/MyProgram/Doc/Windows/AE.jpg" alt="premiere" width="40" height="40"/> </a>
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://developer.android.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Android_Studio_Icon_3.6.svg" alt="android studio" width="40" height="40"/> </a> 
@@ -56,7 +53,7 @@
  <a href="https://www.adobe.com/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="adobe-illustrator" width="40" height="40"/> </a>
  <a href="https://drive.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_drive/google_drive-icon.svg" alt="gdrive" width="40" height="40"/> </a>
  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://saskyong.files.wordpress.com/2016/03/logo_javascript.png" alt="gdrive" width="40" height="40"/> </a>
- <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/jkvd1/Ngoding_Asix_SyntaxianZ/blob/MyProgram/Doc/Windows/PR.jpg" alt="premiere" width="40" height="40"/> </a>
+ <a href="https://www.adobe.com/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://github.com/sibeux/Ngoding_Asix_SyntaxianZ/blob/MyProgram/Doc/Windows/PR.jpg" alt="premiere" width="40" height="40"/> </a>
  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="mi" width="40" height="40"/> </a>
  <a href="https://brave.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/brave/brave-icon.svg" alt="mi" width="40" height="40"/> </a>
  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS?retiredLocale=id" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="mi" width="40" height="40"/> </a>
@@ -113,7 +110,7 @@
 
 <div align="center">
 
-![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkvd1&show_icons=true&theme=tokyonight)
+![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibeux&show_icons=true&theme=tokyonight)
 
 </div>
 
@@ -121,12 +118,12 @@
 
 <div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkvd1&show_icons=true&theme=tokyonight" alt="jkvd1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sibeux&show_icons=true&theme=tokyonight" alt="sibeux" /></p>
 
 </br>
 
 <div align="center">
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkvd1&show_icons=true&theme=tokyonight" alt="jkvd1" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibeux&show_icons=true&theme=tokyonight" alt="sibeux" /></a> </p>
 
 -------------------------------------------------------------------------------------------------------------------------
