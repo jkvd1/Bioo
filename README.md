@@ -1,35 +1,35 @@
 --------------------------------------------------------------------------------------------------------------------------
 
-<h2 align="center">Hellooo SyntaxianZ!</h1>
+<h2 align="center">Hellooo Guys!</h1>
 
 <h1 align="center">Welcome to My Github Profile 👋</h1>
 
 <div align="center"
 
 <p align="center">
- <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sibeux&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight&hide=">
+ <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkvd&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight&hide=">
 </p>
 
 </div>
 
 <div align="center">
 
-🌱 I’m currently learning **Backend Development, Mobile Development**
+- 🌱 I’m currently learning **Java, Data Science, Web Development**
 
-💬 Interested in **Design Graphic, Web Programming**
+- 💬 Ask me about **Java, Python, Pandas**
 
-📫 How to reach me **wahabinasrul@gmail.com**
+- 📫 How to reach me **joshua.ken1204@gmail.com**
 
 </div>
 
  <h3 align="center">🗡️Connect with me:</h3>
 
  <p align="center">
-<a href="https://www.linkedin.com/in/m-nasrul-wahabi-a35a97181/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nasrul wahabi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jkvd/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joshua Kenneth Van Dyon" height="30" width="40" /></a>
 <a href="https://fb.com/m.n.wahabi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.n.wahabi" height="30" width="40" /></a>
-<a href="https://instagram.com/nasrulwahabi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nasrulwahabi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/habiqi" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="habiqi" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/wahabinasrul" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wahabinasrul" height="30" width="40" /></a>
+<a href="https://instagram.com/jokenntt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jokenntt" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/KennethVD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="KennethVD" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/rendankjengkol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rendankjengkol" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">☕Languages and Tools:</h3>
@@ -110,7 +110,7 @@
 
 <div align="center">
 
-![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=sibeux&show_icons=true&theme=tokyonight)
+![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkvd1&show_icons=true&theme=tokyonight)
 
 </div>
 
@@ -118,12 +118,12 @@
 
 <div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sibeux&show_icons=true&theme=tokyonight" alt="sibeux" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jkvd1&show_icons=true&theme=tokyonight" alt="jkvd1" /></p>
 
 </br>
 
 <div align="center">
   
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sibeux&show_icons=true&theme=tokyonight" alt="sibeux" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jkvd1&show_icons=true&theme=tokyonight" alt="jkvd1" /></a> </p>
 
 -------------------------------------------------------------------------------------------------------------------------
