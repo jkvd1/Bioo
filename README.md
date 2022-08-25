@@ -8,9 +8,6 @@
 
 <p align="center">
 
- <img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jkvd&layout=compact&custom_title=Most used languages&langs_count=10&include_all_commits=true&hide_progress=true&hide_border=false&theme=tokyonight&hide=">
-</p>
-
 </div>
 
 <div align="center">
@@ -113,7 +110,7 @@
 
 ![Ralf's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkvd1&show_icons=true&theme=tokyonight)
 
-</div>
+</div
 
 </br>
 
@@ -125,6 +122,6 @@
 
 <div align="center">
   
-<p> <a href="https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1"><img src="https://github-profile-trophy.vercel.app/?username=jkvd1&show_icons=true&theme=tokyonight" alt="jkvd1" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?jkvd1=ryo-ma&column=-1"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin" alt="jkvd1" /></a> </p>
 
 -------------------------------------------------------------------------------------------------------------------------
