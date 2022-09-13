@@ -121,6 +121,6 @@
 
 <div align="center">
   
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?jkvd1=ryo-ma&column=-1"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=alduin" alt="jkvd1" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?jkvd1=ryo-ma&column=-1"><img src="https://github-profile-trophy.vercel.app/?username=jkvd1&theme=alduin" alt="jkvd1" /></a> </p>
 
 -------------------------------------------------------------------------------------------------------------------------
