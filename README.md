@@ -12,9 +12,9 @@
 
 <div align="center">
 
-- 🌱 I’m currently learning **Java, Data Science, Web Development**
+- 🌱 I’m currently learning **Cyber Security, Data Science, and Web Development**
 
-- 💬 Ask me about **Java, Python, Pandas**
+- 💬 Ask me about **Kali, Python, Figma**
 
 - 📫 How to reach me **joshua.ken1204@gmail.com**
 
