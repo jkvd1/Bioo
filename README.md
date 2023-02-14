@@ -16,18 +16,9 @@
 
 - 💬 Ask me about **Kali, Python, Figma**
 
-- 📫 How to reach me **joshua.ken1204@gmail.com**
-
 </div>
 
  <h3 align="center">🗡️Connect with me:</h3>
-
- <p align="center">
-<a href="https://www.linkedin.com/in/jkvd/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Joshua Kenneth Van Dyon" height="30" width="40" /></a>
-<a href="https://instagram.com/jokenntt" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jokenntt" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/KennethVD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="KennethVD" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/rendankjengkol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="rendankjengkol" height="30" width="40" /></a>
-</p>
 
 <h3 align="center">☕Languages and Tools:</h3>
 <p align="center">
